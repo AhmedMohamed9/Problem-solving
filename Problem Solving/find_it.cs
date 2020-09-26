@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Problem_Solving
 {
-    class Program
+    class find_it
     {
-        static void Main(string[] args)
+        public find_it(int[] seq)
         {
+            var odd = seq.Select(a => a%2 != 0).GroupBy(s=>s).Select(s=>s.Count()>1);
+            Console.WriteLine(odd);
 
-            Console.WriteLine(CodeWarMethod.FirstNonRepeatingLetter("moonmTten"));
-            Console.ReadKey();
         }
     }
 }

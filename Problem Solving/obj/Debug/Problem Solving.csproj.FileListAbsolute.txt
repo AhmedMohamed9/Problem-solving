@@ -5,3 +5,10 @@ D:\projects\Training\Problem Solving1\Problem Solving\Problem Solving\obj\Debug\
 D:\projects\Training\Problem Solving1\Problem Solving\Problem Solving\obj\Debug\Problem Solving.csproj.CoreCompileInputs.cache
 D:\projects\Training\Problem Solving1\Problem Solving\Problem Solving\obj\Debug\Problem Solving.exe
 D:\projects\Training\Problem Solving1\Problem Solving\Problem Solving\obj\Debug\Problem Solving.pdb
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\bin\Debug\Problem Solving.exe.config
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\bin\Debug\Problem Solving.exe
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\bin\Debug\Problem Solving.pdb
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\obj\Debug\Problem Solving.csprojAssemblyReference.cache
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\obj\Debug\Problem Solving.csproj.CoreCompileInputs.cache
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\obj\Debug\Problem Solving.exe
+D:\projects\Training\Problem Solving\Problem Solving\Problem Solving\obj\Debug\Problem Solving.pdb

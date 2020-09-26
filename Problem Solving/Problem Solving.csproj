@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CodeWarMethod.cs" />
+    <Compile Include="Count the number of Duplicates.cs" />
+    <Compile Include="find_it.cs" />
     <Compile Include="Maskify.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
