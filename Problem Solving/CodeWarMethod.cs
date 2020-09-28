@@ -10,16 +10,29 @@ namespace Problem_Solving
 {
     class CodeWarMethod
     {
-        public static string FirstNonRepeatingLetter(string s)
+        public static string ExpandedForm(long num)
         {
-            IDictionary<int, string> numberNames = new Dictionary<int, string>();
-            foreach (var item in s)
-              int n = s.Where(z => z == item).ToList().Count();
-
-                
-                
-            
-            return " ";
+            //14
+            string n_num = num.ToString();
+            int l = n_num.Length;
+            string result = string.Empty;
+            foreach (var item in n_num)
+            {
+                if (item!='0')
+                {
+                    string n = item.ToString();
+                    for (int i = 1; i < l; i++)
+                    {
+                       n = n + "0";
+                    }
+                    if (result == string.Empty)
+                        result =  n;
+                    else
+                        result =result+' '+ "+"+' ' + n;
+                }
+                l--;
+            }
+            return (result);
         }
         public static int[] ArrayDiff(int[] a, int[] b)
         {

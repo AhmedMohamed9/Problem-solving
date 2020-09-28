@@ -11,7 +11,7 @@ namespace Problem_Solving
         static void Main(string[] args)
         {
 
-            Console.WriteLine(CodeWarMethod.FirstNonRepeatingLetter("moonmTten"));
+            Console.WriteLine(CodeWarMethod.ExpandedForm(70304));
             Console.ReadKey();
         }
     }
